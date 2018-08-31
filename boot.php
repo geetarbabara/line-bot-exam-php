@@ -1,0 +1,1 @@
+<?php ehco "I am a bot;
